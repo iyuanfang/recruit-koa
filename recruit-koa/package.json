@@ -1,0 +1,19 @@
+{
+  "name": "recruit-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyuanfang/recruit-koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyuanfang/recruit-koa/issues"
+  },
+  "homepage": "https://github.com/iyuanfang/recruit-koa#readme"
+}
