@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iyuanfang/recruit-koa/issues"
   },
-  "homepage": "https://github.com/iyuanfang/recruit-koa#readme"
+  "homepage": "https://github.com/iyuanfang/recruit-koa#readme",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
 }
